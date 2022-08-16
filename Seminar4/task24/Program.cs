@@ -15,5 +15,4 @@ int cycle(int a)
 
 Console.Write("Введите число А: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int res = cycle(number);
-Console.WriteLine($"Сумма чисел от 1 до {number} равна {res}");
+Console.WriteLine($"Сумма чисел от 1 до {number} равна {cycle(number)}");
