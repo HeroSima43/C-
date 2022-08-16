@@ -10,9 +10,15 @@ for (int i = 0; i < N; i++)
     Console.Write($"Ввод {i}-го элемента массива: ");
     array[i] = Convert.ToInt32(Console.ReadLine());
 }
-int pro = 1;
+int pro = 0;
+int Factorial(int f)
+{
+    if (f == 1) return 1;
+ 
+    return f * Factorial(f - 1);
+}
 for (int j = 0; j < N; j++)
 {
-    pro = pro * array[j];
+    pro = Factorial(array[j]);
     Console.WriteLine($"Элемент с индексом {j}. Произведение чисел от 1 до {array[j]} равно: {pro}");
 }
