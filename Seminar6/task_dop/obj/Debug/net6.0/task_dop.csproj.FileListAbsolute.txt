@@ -1,0 +1,15 @@
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\bin\Debug\net6.0\task_dop.exe
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\bin\Debug\net6.0\task_dop.deps.json
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\bin\Debug\net6.0\task_dop.runtimeconfig.json
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\bin\Debug\net6.0\task_dop.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\bin\Debug\net6.0\task_dop.pdb
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.csproj.AssemblyReference.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfoInputs.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfo.cs
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.csproj.CoreCompileInputs.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\refint\task_dop.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.pdb
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\task_dop.genruntimeconfig.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar6\task_dop\obj\Debug\net6.0\ref\task_dop.dll
