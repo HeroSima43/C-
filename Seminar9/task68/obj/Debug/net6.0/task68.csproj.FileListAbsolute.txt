@@ -1,0 +1,15 @@
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\bin\Debug\net6.0\task68.exe
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\bin\Debug\net6.0\task68.deps.json
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\bin\Debug\net6.0\task68.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\bin\Debug\net6.0\task68.pdb
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.pdb
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\Users\pwd\Desktop\MyGeekBrainsProject\C-\Seminar9\task68\obj\Debug\net6.0\ref\task68.dll
